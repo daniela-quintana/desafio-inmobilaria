@@ -1,4 +1,4 @@
-# 📄 Desafío 4 - Arreglo y objectos - Daniela Quintana
+# 📄 Desafío 4 - Arreglos y objetos - Daniela Quintana
 
 ### 🚀 El sitio está desplegado en GitHub Pages:
 
